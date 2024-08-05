@@ -1,0 +1,5 @@
+Estudio.ID	Objetivo	Enfermedad/Gen	Filtro
+1	Esto es un ejemplo	SMN1	Si
+2	Esto es un ejemplo	CFTR	No
+3	Esto es un ejemplo	CFTR, ADAMTS6	No
+4	Esto es un ejemplo	GTF2H2	No informacion
