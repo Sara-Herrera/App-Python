@@ -8,12 +8,13 @@ Esta aplicación permite generar informes sobre información de variantes descar
    
 #### Contenido
 •	Proyecto de Python: Contiene el código fuente y archivos necesarios:
-  o	code.py: Archivo principal del código fuente.
-  o	config.json: Archivo de configuración.
-  o	labels.py: Archivo de etiquetas.
-  o	images_folder: Carpeta de imágenes.
+   o	code.py: Archivo principal del código fuente.
+   o	config.json: Archivo de configuración.
+   o	labels.py: Archivo de etiquetas.
+   o	images_folder: Carpeta de imágenes.
 •	Inputs:
-  o	Ejemplo de archivo de análisis.
-  o	Ejemplo de archivo de datos de estudio.
+   o	Ejemplo de archivo de análisis.
+   o	Ejemplo de archivo de datos de estudio.
 •	Output:
-o	Ejemplo de informe generado.
+   o	Ejemplo de informe generado.
+
