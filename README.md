@@ -1,6 +1,6 @@
 # App-Python
 
-Esta aplicación permite generar informes sobre información de variantes descargadas de ClinVar, clasificándolas según su clasificación ([ejemplo] (https://www.ncbi.nlm.nih.gov/clinvar/?term=SMN1%5Bgene%5D&redir=gene)). Las categorías incluidas son: *"Conflicting classifications", "Benign", "Likely benign", "Uncertain significance", "Likely pathogenic"* y *"Pathogenic"*.
+Esta aplicación permite generar informes sobre información de variantes descargadas de ClinVar, clasificándolas según su clasificación (ejemplo: https://www.ncbi.nlm.nih.gov/clinvar/?term=SMN1%5Bgene%5D&redir=gene). Las categorías incluidas son: *"Conflicting classifications", "Benign", "Likely benign", "Uncertain significance", "Likely pathogenic"* y *"Pathogenic"*.
 
 ### Funcionalidades
 1.	Generación de Informes: Clasificación de variantes según su clasificación clínica.
