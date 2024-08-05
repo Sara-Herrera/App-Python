@@ -1,0 +1,7 @@
+{
+	"APP_TITLE": "Test App", 
+	"APP_VERSION" : "v.0.0",
+	"WINDOW_WIDTH": 900, 
+	"WINDOW_HEIGHT": 600,
+	"FONT_NAME" : "Tahoma"
+}
