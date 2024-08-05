@@ -7,14 +7,16 @@ Esta aplicación permite generar informes sobre información de variantes descar
 2.	Añadir Información de Estudio: Permite añadir información adicional de estudios. Es posible crear un archivo que contenga datos de varios estudios, los cuales se pueden exportar y cargar al momento de generar el informe.
    
 #### Contenido
-•	Proyecto de Python: Contiene el código fuente y archivos necesarios:
-   o	code.py: Archivo principal del código fuente.
-   o	config.json: Archivo de configuración.
-   o	labels.py: Archivo de etiquetas.
-   o	images_folder: Carpeta de imágenes.
-•	Inputs:
-   o	Ejemplo de archivo de análisis.
-   o	Ejemplo de archivo de datos de estudio.
-•	Output:
-   o	Ejemplo de informe generado.
+- Proyecto de Python: Contiene el código fuente y archivos necesarios:
+  - `code.py`: Archivo principal del código fuente.
+  - `config.json`: Archivo de configuración.
+  - `labels.py`: Archivo de etiquetas.
+  - `images_folder`: Carpeta de imágenes.
+
+- Inputs:
+  - Ejemplo de archivo de análisis.
+  - Ejemplo de archivo de datos de estudio.
+
+- Output:
+  - Ejemplo de informe generado.
 
